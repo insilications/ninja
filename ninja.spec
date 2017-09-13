@@ -1,9 +1,9 @@
 #
 Name     : ninja
-Version  : 1.7.2
+Version  : 1.8.2
 Release  : 2
-URL      : https://github.com/ninja-build/ninja/archive/v1.7.2.tar.gz
-Source0  : https://github.com/ninja-build/ninja/archive/v1.7.2.tar.gz
+URL      : https://github.com/ninja-build/ninja/archive/v1.8.2.tar.gz
+Source0  : https://github.com/ninja-build/ninja/archive/v1.8.2.tar.gz
 Summary  : Ninja is a small build system with a focus on speed
 Group    : Development/Tools
 License  : Apache-2.0
@@ -21,7 +21,7 @@ Ninja Python Distributions
         ==========================
 
 %prep
-%setup -q -n ninja-1.7.2
+%setup -q -n ninja-1.8.2
 
 %build
 export http_proxy=http://127.0.0.1:9/
