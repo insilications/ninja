@@ -11,7 +11,7 @@ Requires: scikit-build
 BuildRequires : cmake
 BuildRequires : pbr
 BuildRequires : pip
-BuildRequires : python-dev
+
 BuildRequires : python3-dev
 BuildRequires : scikit-build
 BuildRequires : setuptools
