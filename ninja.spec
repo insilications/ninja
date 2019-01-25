@@ -7,7 +7,6 @@ Source0  : https://github.com/ninja-build/ninja/archive/v1.8.2.tar.gz
 Summary  : Ninja is a small build system with a focus on speed
 Group    : Development/Tools
 License  : Apache-2.0
-Requires: scikit-build
 BuildRequires : cmake
 BuildRequires : pbr
 BuildRequires : pip
