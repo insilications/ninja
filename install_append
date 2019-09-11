@@ -1,0 +1,1 @@
+install -Dpm0755 ninja -t %{buildroot}/usr/bin/
