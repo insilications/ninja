@@ -4,7 +4,7 @@
 #
 Name     : ninja
 Version  : 1.9.0
-Release  : 9
+Release  : 10
 URL      : https://github.com/ninja-build/ninja/archive/v1.9.0.tar.gz
 Source0  : https://github.com/ninja-build/ninja/archive/v1.9.0.tar.gz
 Summary  : Ninja is a small build system with a focus on speed.
