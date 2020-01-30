@@ -1,8 +1,5 @@
 # This file contains recursive sources that require this package
 jsoncpp
-libepoxy
 libgepub
 meson
 qtwebengine
-systemd-netlogd
-xorgproto
