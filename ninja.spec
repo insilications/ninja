@@ -4,7 +4,7 @@
 #
 Name     : ninja
 Version  : 1.10.2
-Release  : 16
+Release  : 17
 URL      : https://github.com/ninja-build/ninja/archive/v1.10.2/ninja-1.10.2.tar.gz
 Source0  : https://github.com/ninja-build/ninja/archive/v1.10.2/ninja-1.10.2.tar.gz
 Summary  : Ninja is a small build system with a focus on speed.
